@@ -1,1 +1,4 @@
 # javaHotCode
+
+use:
+HotCodeHelper.redefineClasses()
